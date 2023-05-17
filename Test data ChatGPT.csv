@@ -9,10 +9,10 @@ Area,Instrument,Description,Range,Accuracy
 150,CIT150-01,"Conductivity probe and transmitter after prefilters, before filters",0 microS - 9999 microS,+/- 2% o.r.
 150,CIT150-02,Conductivity probe and transmitter on the permeate stream,0 microS - 9999 microS,+/- 2% o.r.
 150,CIT150-03,Conductivity probe and transmitter on the concentrate stream,0 microS - 9999 microS,+/- 2% o.r.
-150,FIT150-01,A Pico Magnetic flowmeter,"Liquids must have condicutivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
-150,FIT150-02,A Pico Magnetic flowmeter,"Liquids must have condicutivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
-150,FIT150-03,A Pico Magnetic flowmeter,"Liquids must have condicutivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
-150,FIT150-04,A Pico Magnetic flowmeter,"Liquids must have condicutivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
+150,FIT150-01,A Pico Magnetic flowmeter,"Liquids must have conductivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
+150,FIT150-02,A Pico Magnetic flowmeter,"Liquids must have conductivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
+150,FIT150-03,A Pico Magnetic flowmeter,"Liquids must have conductivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
+150,FIT150-04,A Pico Magnetic flowmeter,"Liquids must have conductivity of 5 microS/cm, measureable range: 0.6 L/min to 10000 L/min",+/- 0.5% o.r. +/- 1mm/s
 150,FIT150-05,A Coriolis flowmeter,measureable range: 0 kg/h to 2200000 kg/h,+/- 0.1%
 150,P150-01,Centrifugal Pump,no information provided,no information provided
 150,PIT150-01,Pressure indicator and transmitter,no information provided,no information provided
